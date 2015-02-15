@@ -1,2 +1,3 @@
 # fashion-design
-#Fashion design new line added
+#Blog about fashion design
+#html, css used 
