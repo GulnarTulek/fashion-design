@@ -23,7 +23,7 @@
 
 .alignright {
      float: right; 
-     width: 35%;
+     width: 36%;
      padding: 0 10px 10px 0; /* note the padding around a left floated image */
      background-color: #F8F8F8;
      margin-top: 0;
@@ -32,7 +32,7 @@
 .alignleft {
      float: left; 
      padding: 0 10px 10px 0; /* note the padding around a left floated image */
-     width: 65%;
+     width: 64%;
      background-color: #F8F8F8;
 }
 
